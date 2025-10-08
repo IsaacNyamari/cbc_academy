@@ -1,0 +1,85 @@
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/index.php on line 41
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/index.php on line 58
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/index.php on line 58
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php on line 85
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 17
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 19
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 24
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 33
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 75
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 75
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 108
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 120
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 89
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 89
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "full_name" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 89
+[10-Sep-2025 18:21:51 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 122
+[10-Sep-2025 19:14:19 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 6
+[10-Sep-2025 19:14:24 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 6
+[10-Sep-2025 19:14:24 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php on line 85
+[10-Sep-2025 19:14:24 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 6
+[10-Sep-2025 19:14:24 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 13
+[10-Sep-2025 19:14:24 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 17
+[10-Sep-2025 19:14:25 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php on line 85
+[10-Sep-2025 19:14:25 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 6
+[10-Sep-2025 19:14:25 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 13
+[10-Sep-2025 19:14:25 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 17
+[10-Sep-2025 19:14:25 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php on line 85
+[10-Sep-2025 19:14:25 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 6
+[10-Sep-2025 19:14:25 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 13
+[10-Sep-2025 19:14:25 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 17
+[10-Sep-2025 19:15:38 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 6
+[10-Sep-2025 19:15:44 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 6
+[10-Sep-2025 19:15:48 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 6
+[10-Sep-2025 19:16:11 Africa/Nairobi] PHP Warning:  Undefined array key "subject_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/topic.php on line 15
+[10-Sep-2025 19:16:35 Africa/Nairobi] PHP Warning:  Undefined array key "subject_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/topic.php on line 15
+[10-Sep-2025 19:16:38 Africa/Nairobi] PHP Warning:  Undefined array key "subject_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/topic.php on line 15
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/index.php on line 41
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/index.php on line 58
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/index.php on line 58
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php on line 85
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 17
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 19
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 24
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 33
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 75
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 75
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 108
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 120
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 89
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 89
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "full_name" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 89
+[10-Sep-2025 19:58:44 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 122
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/index.php on line 41
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/index.php on line 58
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/index.php on line 58
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php on line 85
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 17
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 19
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 24
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 33
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 75
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 75
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 108
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 120
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 89
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 89
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "full_name" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 89
+[02-Oct-2025 16:01:08 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 122
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/index.php on line 41
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/index.php on line 58
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/index.php on line 58
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php on line 85
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 17
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 19
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 24
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 33
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 75
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 75
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 108
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/sidebar.php on line 120
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 89
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 89
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "full_name" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 89
+[02-Oct-2025 22:35:39 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/footer.php on line 122
+[02-Oct-2025 22:36:40 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/subjects/view.php on line 6

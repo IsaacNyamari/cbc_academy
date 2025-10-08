@@ -1,0 +1,11 @@
+[10-Sep-2025 18:11:39 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/profile/update.php on line 15
+[10-Sep-2025 18:11:39 Africa/Nairobi] PHP Warning:  Undefined array key "full_name" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/profile/update.php on line 22
+[10-Sep-2025 18:11:39 Africa/Nairobi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/config.php on line 52
+[10-Sep-2025 18:11:39 Africa/Nairobi] PHP Warning:  Undefined array key "email" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/profile/update.php on line 23
+[10-Sep-2025 18:11:39 Africa/Nairobi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/config.php on line 52
+[10-Sep-2025 18:11:39 Africa/Nairobi] PHP Warning:  Undefined array key "username" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/profile/update.php on line 24
+[10-Sep-2025 18:11:39 Africa/Nairobi] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/config.php on line 52
+[10-Sep-2025 18:11:39 Africa/Nairobi] PHP Warning:  Trying to access array offset on false in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/profile/update.php on line 25
+[10-Sep-2025 18:11:39 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/profile/update.php:15) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/profile/update.php on line 30
+[10-Sep-2025 18:11:39 Africa/Nairobi] PHP Warning:  Undefined array key "user_id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/profile/update.php on line 85
+[10-Sep-2025 18:11:39 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/profile/update.php:15) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/profile/update.php on line 92

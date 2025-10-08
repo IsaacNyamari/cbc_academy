@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Yeah Kenyan Academy | Dashboard</title>
+
+  <!-- Bootstrap 5 -->
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="assets/css/fontawesome/css/all.min.css">
+
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@4.0.0-rc3/dist/css/adminlte.min.css"
+    crossorigin="anonymous" /> -->
+</head>
+
+<body class="layout-fixed sidebar-expand-lg bg-body-tertiary">
+
+  <div class="app-wrapper">
+
+    <!-- Navbar -->
+    <nav class="app-header navbar navbar-expand bg-dark navbar-dark">
+      <!-- Sidebar toggle -->
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" data-lte-toggle="sidebar" href="#">
+            <i class="fas fa-bars"></i>
+          </a>
+        </li>
+      </ul>
+
+      <!-- Right side -->
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">
+            <i class="fas fa-user-circle"></i> Isaac Nyamari
+          </a>
+          <ul class="dropdown-menu dropdown-menu-end">
+            <li><a href="#" class="dropdown-item"><i class="fas fa-user me-2"></i> Profile</a></li>
+            <li>
+              <hr class="dropdown-divider">
+            </li>
+            <li><a href="logout.php" class="dropdown-item"><i class="fas fa-sign-out-alt me-2"></i> Logout</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+    <!-- /.navbar -->
+
+    <!-- Sidebar -->
+    <aside class="app-sidebar sidebar-dark-primary shadow" data-bs-theme="dark">
+      <!-- Brand -->
+      <a href="dashboard.php" class="brand-link">
+        <i class="fas fa-graduation-cap ms-2"></i>
+        <span class="brand-text fw-bold">Yeah Kenyan Academy</span>
+      </a>
+
+      <!-- Sidebar Menu -->
+      <div class="sidebar">
+        <nav class="navbar-dark">
+          <ul class="nav nav-pills nav-sidebar flex-column" data-lte-toggle="treeview" role="menu">
+            <li class="nav-item">
+              <a href="dashboard.php" class="nav-link">
+                <i class="nav-icon fas fa-tachometer-alt"></i>
+                <p>Dashboard</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="subjects.php" class="nav-link">
+                <i class="nav-icon fas fa-book"></i>
+                <p>Subjects</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="topics.php" class="nav-link">
+                <i class="nav-icon fas fa-file-alt"></i>
+                <p>Topics</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="quizzes.php" class="nav-link">
+                <i class="nav-icon fas fa-question-circle"></i>
+                <p>Quizzes</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="students.php" class="nav-link">
+                <i class="nav-icon fas fa-user-graduate"></i>
+                <p>Students</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="teachers.php" class="nav-link">
+                <i class="nav-icon fas fa-chalkboard-teacher"></i>
+                <p>Teachers</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="settings.php" class="nav-link">
+                <i class="nav-icon fas fa-cog"></i>
+                <p>System Settings</p>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </aside>
+    <!-- /.sidebar -->
+
+    <!-- Content Wrapper -->
+    <main class="app-main">
+      <div class="app-content-header">
+        <div class="container-fluid">
+          <h1 class="app-page-title">Dashboard</h1>
+        </div>
+      </div>
+
+      <div class="app-content">
+        <div class="container-fluid">
+          <!-- Example card -->
+          <div class="card">
+            <div class="card-header">
+              <h3 class="card-title">Manage Subjects</h3>
+            </div>
+            <div class="card-body">
+              Your table or content goes here.
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <!-- /.content-wrapper -->
+
+    <!-- Footer -->
+    <footer class="app-footer text-center">
+      <strong>&copy; 2025 Yeah Kenyan Academy</strong> All rights reserved.
+    </footer>
+
+  </div>
+  <!-- ./wrapper -->
+
+  <!-- Bootstrap 5 + AdminLTE JS -->
+  <script src="assets/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/js/adminlte.min.js"
+    crossorigin="anonymous"></script>
+
+</body>
+
+</html>

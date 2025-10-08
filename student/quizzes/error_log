@@ -1,0 +1,14 @@
+[02-Oct-2025 16:01:49 Africa/Nairobi] PHP Warning:  Undefined array key "id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 12
+[02-Oct-2025 16:01:49 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php:12) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 28
+[02-Oct-2025 16:01:49 Africa/Nairobi] PHP Warning:  Trying to access array offset on false in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 81
+[02-Oct-2025 16:01:49 Africa/Nairobi] PHP Warning:  Trying to access array offset on false in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 88
+[02-Oct-2025 16:01:49 Africa/Nairobi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 88
+[02-Oct-2025 16:01:49 Africa/Nairobi] PHP Warning:  Trying to access array offset on false in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 101
+[02-Oct-2025 16:01:49 Africa/Nairobi] PHP Warning:  Trying to access array offset on false in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 103
+[02-Oct-2025 22:36:49 Africa/Nairobi] PHP Warning:  Undefined array key "id" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 12
+[02-Oct-2025 22:36:49 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php:12) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 28
+[02-Oct-2025 22:36:49 Africa/Nairobi] PHP Warning:  Trying to access array offset on false in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 81
+[02-Oct-2025 22:36:49 Africa/Nairobi] PHP Warning:  Trying to access array offset on false in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 88
+[02-Oct-2025 22:36:49 Africa/Nairobi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 88
+[02-Oct-2025 22:36:49 Africa/Nairobi] PHP Warning:  Trying to access array offset on false in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 101
+[02-Oct-2025 22:36:49 Africa/Nairobi] PHP Warning:  Trying to access array offset on false in /home/gumyombf/yka-cbc-844.yeahkenyan.com/student/quizzes/take.php on line 103

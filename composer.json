@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.10",
+        "fpdf/fpdf": "^1.86",
+        "cboden/ratchet": "^0.4.4",
+        "endroid/qr-code": "4.0"
+    }
+}

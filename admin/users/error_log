@@ -1,0 +1,70 @@
+[10-Sep-2025 14:19:17 Africa/Nairobi] PHP Warning:  Undefined array key "is_active" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_student.php on line 110
+[10-Sep-2025 14:19:17 Africa/Nairobi] PHP Warning:  Undefined array key "is_active" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_student.php on line 111
+[10-Sep-2025 14:21:09 Africa/Nairobi] PHP Warning:  Undefined array key "is_active" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_student.php on line 110
+[10-Sep-2025 14:21:09 Africa/Nairobi] PHP Warning:  Undefined array key "is_active" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_student.php on line 111
+[10-Sep-2025 14:22:16 Africa/Nairobi] PHP Warning:  Undefined array key "is_active" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_student.php on line 110
+[10-Sep-2025 14:22:16 Africa/Nairobi] PHP Warning:  Undefined array key "is_active" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_student.php on line 111
+[10-Sep-2025 14:25:22 Africa/Nairobi] PHP Warning:  Undefined array key "is_active" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_student.php on line 110
+[10-Sep-2025 14:59:06 Africa/Nairobi] PHP Warning:  Undefined array key "is_active" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 68
+[10-Sep-2025 14:59:06 Africa/Nairobi] PHP Warning:  Undefined array key "is_active" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 69
+[10-Sep-2025 14:59:06 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 109
+[10-Sep-2025 14:59:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 109
+[10-Sep-2025 14:59:06 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 121
+[10-Sep-2025 14:59:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 121
+[10-Sep-2025 14:59:06 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 125
+[10-Sep-2025 14:59:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 125
+[10-Sep-2025 14:59:06 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 129
+[10-Sep-2025 14:59:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 129
+[10-Sep-2025 14:59:06 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 133
+[10-Sep-2025 14:59:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 133
+[10-Sep-2025 15:00:32 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 109
+[10-Sep-2025 15:00:32 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 109
+[10-Sep-2025 15:00:32 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 121
+[10-Sep-2025 15:00:32 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 121
+[10-Sep-2025 15:00:32 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 125
+[10-Sep-2025 15:00:32 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 125
+[10-Sep-2025 15:00:32 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 129
+[10-Sep-2025 15:00:32 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 129
+[10-Sep-2025 15:00:32 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 133
+[10-Sep-2025 15:00:32 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 133
+[10-Sep-2025 18:10:34 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 109
+[10-Sep-2025 18:10:34 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 109
+[10-Sep-2025 18:10:34 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 121
+[10-Sep-2025 18:10:34 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 121
+[10-Sep-2025 18:10:34 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 125
+[10-Sep-2025 18:10:34 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 125
+[10-Sep-2025 18:10:34 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 129
+[10-Sep-2025 18:10:34 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 129
+[10-Sep-2025 18:10:34 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 133
+[10-Sep-2025 18:10:34 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 133
+[10-Sep-2025 18:10:54 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 109
+[10-Sep-2025 18:10:54 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 109
+[10-Sep-2025 18:10:54 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 121
+[10-Sep-2025 18:10:54 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 121
+[10-Sep-2025 18:10:54 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 125
+[10-Sep-2025 18:10:54 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 125
+[10-Sep-2025 18:10:54 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 129
+[10-Sep-2025 18:10:54 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 129
+[10-Sep-2025 18:10:54 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 133
+[10-Sep-2025 18:10:54 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 133
+[10-Sep-2025 18:10:56 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 109
+[10-Sep-2025 18:10:56 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 109
+[10-Sep-2025 18:10:56 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 121
+[10-Sep-2025 18:10:56 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 121
+[10-Sep-2025 18:10:56 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 125
+[10-Sep-2025 18:10:56 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 125
+[10-Sep-2025 18:10:56 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 129
+[10-Sep-2025 18:10:56 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 129
+[10-Sep-2025 18:10:56 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 133
+[10-Sep-2025 18:10:56 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 133
+[10-Sep-2025 18:10:58 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 109
+[10-Sep-2025 18:10:58 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 109
+[10-Sep-2025 18:10:58 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 121
+[10-Sep-2025 18:10:58 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 121
+[10-Sep-2025 18:10:58 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 125
+[10-Sep-2025 18:10:58 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 125
+[10-Sep-2025 18:10:58 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 129
+[10-Sep-2025 18:10:58 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 129
+[10-Sep-2025 18:10:58 Africa/Nairobi] PHP Warning:  Undefined variable $progress in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 133
+[10-Sep-2025 18:10:58 Africa/Nairobi] PHP Warning:  Trying to access array offset on null in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/view_teacher.php on line 133
+[02-Oct-2025 15:47:30 Africa/Nairobi] PHP Warning:  http_response_code(): Cannot set response code - headers already sent (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/export.php:128) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/users/export.php on line 129

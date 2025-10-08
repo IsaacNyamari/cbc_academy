@@ -1,0 +1,5 @@
+[10-Sep-2025 18:09:56 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php on line 85
+[10-Sep-2025 18:19:16 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/dashboard.php on line 10
+[10-Sep-2025 18:19:18 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php:50) in /home/gumyombf/yka-cbc-844.yeahkenyan.com/admin/dashboard.php on line 10
+[10-Sep-2025 18:29:41 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php on line 85
+[10-Sep-2025 21:17:26 Africa/Nairobi] PHP Warning:  Undefined array key "role" in /home/gumyombf/yka-cbc-844.yeahkenyan.com/includes/header.php on line 85
