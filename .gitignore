@@ -1,0 +1,83 @@
+# =========================
+# CBC Academy Project .gitignore
+# =========================
+
+# OS / System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# PHP / Backend
+/vendor/
+composer.lock
+error_log
+*.log
+*.cache
+*.tmp
+*.bak
+*.old
+*.sql
+*.sqlite
+*.pid
+
+# Sensitive includes
+/includes/config.php
+/includes/db.php
+/includes/functions.php
+/includes/auth_token.php
+
+# Environment & credentials
+.env
+.env.local
+.env.*.local
+
+# AJAX and temp files
+/ajax/tmp/
+ajax/cache/
+sessions/
+tmp/
+
+# Assets
+assets/uploads/
+assets/cache/
+assets/tmp/
+
+# Node / frontend tools (if used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# XAMPP / localhost specific
+xamppfiles/
+htdocs/test/
+php_errors.log
+
+# User uploads and backups
+uploads/
+export/
+certificates/
+verify/tmp/
+
+# Cache / build / dist
+/dist/
+build/
+.cache/
+*.lock
+
+# Logs
+logs/
+coverage/
+
+# Ignore all hidden files except important ones
+.*
+!.gitignore
+!.htaccess

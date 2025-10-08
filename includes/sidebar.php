@@ -71,6 +71,15 @@
                         </a>
                     </li>
 
+                    <!-- ✅ NEW: Answers Menu -->
+                    <li class="nav-item">
+                        <a class="nav-link text-white <?php echo strpos($_SERVER['REQUEST_URI'], '/admin/answers/') !== false ? 'active' : ''; ?>"
+                            href="<?php echo BASE_URL; ?>admin/answers/">
+                            <i class="fas fa-check-circle me-2"></i> Answers
+                        </a>
+                    </li>
+
+
                     <!-- Collapsible User Management -->
                     <?php if ($_SESSION['role'] === 'admin' || $_SESSION['role'] === 'teacher'): ?>
                         <?php
@@ -152,6 +161,6 @@
     <div class="app-content-header">
         <div class="app-content-header">
             <div class="container-fluid">
-              
+
             </div>
         </div>
