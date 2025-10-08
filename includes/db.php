@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$dbname = 'gumyombf_cbc_system';
-$username = 'gumyombf_cbc_system';
-$password = 'gumyombf_cbc_system';
+$dbname = 'cbc_system';
+$username = 'root';
+$password = '';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);

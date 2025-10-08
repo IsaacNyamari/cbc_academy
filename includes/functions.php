@@ -2,9 +2,9 @@
 class Dbh
 {
     protected $host = 'localhost';
-    protected $dbname = 'gumyombf_cbc_system';
-    protected $username = 'gumyombf_cbc_system';
-    protected $password = 'gumyombf_cbc_system';
+    protected $dbname = 'cbc_system';
+    protected $username = 'root';
+    protected $password = '';
 /*
 
 

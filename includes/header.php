@@ -1,4 +1,31 @@
-<?php
+<?php 
+function navigateToRootURL() {
+    // Get protocol (HTTP or HTTPS)
+    $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https://" : "http://";
+
+    // Get host (e.g., example.com)
+    $host = $_SERVER['HTTP_HOST'];
+
+    // Get document root (server path)
+    $documentRoot = str_replace('\\', '/', realpath($_SERVER['DOCUMENT_ROOT']));
+
+    // Get current script directory
+    $currentDir = str_replace('\\', '/', __DIR__);
+
+    // Remove document root part from current directory to get relative path
+    $relativePath = str_replace($documentRoot, '', $currentDir);
+
+    // Go up until we reach project root (looking for index.php or document root)
+    while (!file_exists($documentRoot . '/index.php') && dirname($documentRoot) !== $documentRoot) {
+        $documentRoot = dirname($documentRoot);
+    }
+
+    // Construct full URL
+    $rootURL = rtrim($protocol . $host, '/');
+
+    return $rootURL;
+}
+
 // Ensure session is started
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
@@ -105,7 +132,7 @@ if (isset($_SESSION['role']) && $_SESSION['role'] === "student") {
                             <hr class="dropdown-divider">
                         </li>
                         <li>
-                            <a class="dropdown-item" href="logout.php">
+                            <a class="dropdown-item" href="<?php echo navigateToRootURL()?>/logout.php">
                                 <i class="fas fa-sign-out-alt me-2"></i> Logout
                             </a>
                         </li>
